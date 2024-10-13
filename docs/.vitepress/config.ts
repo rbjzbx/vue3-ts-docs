@@ -50,8 +50,30 @@ export default defineConfig({
                     link: "/components/form"
                   },
                   {
-                    text: "表格 Table",
-                    link: "/components/table"
+                    text: "Type Script",
+                    link: "/components/ts"
+                  },
+                ],
+              }
+            ],
+            "/api/": [
+              {
+                text: "API参考",
+                items: [
+                  {
+                    text: "Vue",
+                    link: "/api/Vue"
+                  },
+                ],
+              }
+            ],
+            "/faq/": [
+              {
+                text: "常见问题",
+                items: [
+                  {
+                    text: "Vueuse",
+                    link: "/faq/Vueuse"
                   },
                 ],
               }

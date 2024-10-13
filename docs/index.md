@@ -7,7 +7,7 @@ hero:
   text: "Vue3 + TypeScript 学习文档"
   tagline: " 你这辈子不用对任何人证明什么，除了你自己。"
   image:
-    src: /assets/image.png
+    src: https://bucket-sxw.oss-cn-beijing.aliyuncs.com/images/image.jpg
     alt: 洛教
   actions:
     - theme: brand
