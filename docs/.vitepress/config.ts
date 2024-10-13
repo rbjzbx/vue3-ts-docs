@@ -59,7 +59,7 @@ export default defineConfig({
         },
         footer: {
             message: "用心学习 Vue 3和 TypeScript!",
-            copyright: "Copyright© 2024 mqxu"
+            copyright: "Copyright© 2024 sxw"
           }
     }
 })
